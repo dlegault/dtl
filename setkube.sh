@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This relies on your using iTerm2, and also having created a color profile in iTerm2 called "Prod"
+# This relies on iTerm2, and also having created a color profile in iTerm2 called "Prod"
 # When selecting a production kubeconfig (as defined below), it will change the iTerm2 profile to "Prod"
 # making it easy to distinguish if you're on production or not!
 
